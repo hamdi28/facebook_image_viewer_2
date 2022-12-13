@@ -13,11 +13,14 @@ and the Flutter guide for
 
 A simple widget for small screen with swipe to dismiss, double tap zoom && traditional zoom.
 
+![Screenrecorder-2022-12-13-11-25-48-782_0__1__AdobeExpress](https://user-images.githubusercontent.com/83585129/207303402-3a9e5c62-cea8-4220-9b8f-a074eac20a21.gif)
+
+
 ## Features
 
-.Show a single image in a small screen mode.
-.Double tap to zoom in image.
-.Nice swipe animation (like in Facebook) to dismiss full screen mode.
++ Show a single image in a small screen mode.
++ Double tap to zoom in image.
++ Nice swipe animation (like in Facebook) to dismiss full screen mode.
 
 ## Getting started
 
