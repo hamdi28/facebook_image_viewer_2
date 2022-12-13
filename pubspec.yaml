@@ -1,5 +1,5 @@
 name: facebook_image_viewer_2
-description: A new Flutter package project.
+description: A simple widget for small screen with swipe to dismiss, double tap zoom && traditional zoom.
 version: 1.0.0
 homepage: https://github.com/hamdi28/facebook_image_viewer_2
 
